@@ -13,16 +13,16 @@ const api = axios.create({baseURL: 'https://rocketseat-node.herokuapp.com/api' }
 ```
 ## Images
 
+![alt text](https://github.com/Christianmsousa/reactjs-starter/blob/main/img-github/Main.png)
 ![alt text](https://github.com/Christianmsousa/reactjs-starter/blob/main/img-github/Details.png)
-
 ## Rocketseat
 
-[Github](https://github.com/Rocketseat).
-[Rocketseat site](https://rocketseat.com.br).
+* [Github](https://github.com/Rocketseat).
+* [Rocketseat site](https://rocketseat.com.br).
 
 # Social
 
-<a href=“https://www.linkedin.com/in/christiansousaa/“>LinkedIn</a>
+* [LinkedIn](https://www.linkedin.com/in/christiansousaa/).
 
 
 
