@@ -4,8 +4,8 @@ Project developed in the ReactJS module of the Rocketseat -Starter course
 
 ## We use
 
-yarn add axios
-yarn add react-router-dom
+[yarn add axios](https://github.com/axios/axios).
+[yarn add react-router-dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)
 
 ```javascript
 // Api
@@ -16,8 +16,8 @@ const api = axios.create({baseURL: 'https://rocketseat-node.herokuapp.com/api' }
 
 ## Rocketseat
 
-[Github](https://github.com/Rocketseat)
-[Rocketseat site](https://rocketseat.com.br)
+[Github](https://github.com/Rocketseat).
+[Rocketseat site](https://rocketseat.com.br).
 
 # Social
 
