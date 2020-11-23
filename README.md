@@ -12,7 +12,8 @@ Project developed in the ReactJS module of the Rocketseat -Starter course
 const api = axios.create({baseURL: 'https://rocketseat-node.herokuapp.com/api' });
 ```
 ## Images
-<img src=“./img-github/Details.png” alt=“Main”>
+
+![alt text](https://github.com/Christianmsousa/reactjs-starter/blob/main/img-github/Details.png)
 
 ## Rocketseat
 
